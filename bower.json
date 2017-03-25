@@ -3,10 +3,10 @@
   "authors": [
     "radosvet93 <93radosvet@gmail.com>"
   ],
-  "description": "",
+  "description": "testing bower and grunt",
   "main": "main.js",
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/radosvet93/hello-world",
   "ignore": [
     "**/.*",
     "node_modules",

@@ -1,7 +1,7 @@
 {
   "name": "bower",
   "version": "1.0.0",
-  "description": "",
+  "description": "something.",
   "main": "main.js",
   "dependencies": {
     "bower": "^1.8.0",
@@ -12,5 +12,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radosvet93/hello-world.git"
+  },
+  "bugs": {
+    "url": "https://github.com/radosvet93/hello-world/issues"
+  },
+  "homepage": "https://github.com/radosvet93/hello-world#readme"
 }
